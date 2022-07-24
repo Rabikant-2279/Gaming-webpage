@@ -1,0 +1,177 @@
+body{
+  margin:30px;
+  font-family: 'Syne Mono', monospace;
+}
+
+.head1{
+ background-image: url(https://media.istockphoto.com/vectors/computer-games-seamless-background-vector-id528711245?b=1&k=6&m=528711245&s=612x612&w=0&h=zKGpDrFzAtNBAkze6CneYPH2cPtjgTIm94yJKalnpUc=);
+ text-align : center;
+ height:200px;
+ padding:75px;
+ font-style: oblique bold;
+}
+
+.name {
+  font-size:40px;
+  padding:5px 10px ;
+  color:white;
+  background-color:#101010;
+  opacity: 0.7;
+  position:relative;
+  display:inline;
+}
+
+.navbar{
+  background-image: url(https://i.pinimg.com/originals/79/73/e9/7973e9a92e0ce745a60614beceba961f.gif);
+}
+
+.navbar-nav {
+  padding-left:5rem;
+}
+
+.nav-link {
+  color:white;
+}
+
+.text {
+  text-align: center;
+  padding:20px;
+  margin:10px;
+}
+
+iframe {
+  margin: 30px 295px;
+}
+
+.same{
+  background-image: url(https://media.istockphoto.com/vectors/gaming-gadgets-seamless-pattern-in-deep-blue-outline-esports-pc-and-vector-id1166885668?b=1&k=6&m=1166885668&s=612x612&w=0&h=e3Umh8igr2Epd1dZYi0dkuGx4i5CQpl9Ep3ktbwKHf4=);
+height:300px;
+color:white;
+}
+.odd{
+  background-image: url(https://img.freepik.com/free-vector/abstract-violet-pixel-rain-background_23-2148362568.jpg?size=626&ext=jpg);
+  height:300px;
+  color:white;
+}
+.news {
+  text-align: left;
+  padding:100px;
+}
+
+.team{
+  text-align: left;
+  margin:50px;
+  font-size:1.5rem;
+}
+.friend-image{
+  width:50%;
+  border-radius: 100%;
+  border:2px solid black;
+}
+.card{
+  text-align: center;
+  background-color: #ffffff;
+}
+
+.game-image{
+  width:100%;
+  height:300px;
+}
+.game{
+  margin:20px auto;
+}
+
+.foot1{
+  background-image: url(https://i.pinimg.com/originals/67/c0/d2/67c0d28e4408d3edc51bca5c1854c65d.gif);
+  height:200px;
+
+  border-radius:5px;
+  text-align: center;
+  padding-top:80px;
+}
+button{
+  width:200px;
+  height: 50px;
+}
+a.nav-link{
+  font-stretch: semi-expanded;
+  font-size: 1.5em;
+}
+
+.foot2{
+  height:150px;
+  padding:20px;
+  color:white;
+background-color:grey;
+opacity:1;
+font-size:20px;
+}
+.p{
+  text-align: left;
+}
+.level{
+opacity: 0.9;
+border-radius: 3%;
+transition: width 1s,height 2s;
+}
+.level:hover{
+  opacity: 1;
+  transition: width 5s,height 7s;
+ }
+.level2{
+    opacity: 0.9;
+    border-radius: 3%;
+    transition: width 1s,height 2s;
+ }
+.level2:hover{
+      opacity: 1;
+      transition: width 5s,height 7s;
+ }
+ .level3{
+  opacity: 0.9;
+  border-radius: 3%;
+  transition: width 1s,height 2s;
+}
+.level3:hover{
+    opacity: 1;
+    transition: width 5s,height 7s;
+}
+.level4{
+  opacity: 0.9;
+  border-radius: 3%;
+  transition: width 1s,height 2s;
+  transition: transform .2s;
+}
+.level4:hover{
+    opacity: 10;
+    transition: width 5s,height 7s;
+    transform: scale(1.5);
+  }
+  .zoom1 {
+    opacity: 0.9;
+    transition: transform .2s; /* Animation */
+    width: 100%;
+    height: 300px;
+    margin-bottom: 0%;
+  }
+  
+  .zoom1:hover {
+    opacity: 10;
+    transform: scale(0.9); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+  .container{
+    margin-bottom: 5%;
+  }
+  .zoom2 {
+    opacity: 0.9;
+    transition: transform .2s; /* Animation */
+    width: 100%;
+    height: 100px;
+    margin-bottom: 0%;
+  }
+  
+  .zoom2:hover {
+    opacity: 10;
+    transform: scale(0.9); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+ 
